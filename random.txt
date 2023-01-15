@@ -1,1 +1,2 @@
 This is Demo repository for COPS Git and Github Workshop.
+Welcome to the workshop.
